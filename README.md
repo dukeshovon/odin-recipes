@@ -1,3 +1,3 @@
-# odin-recipes
+# Odin-Recipes
 
-This will be a short project where i will be showcase a simple website made by me, through HTML and CSS.
+This is a small project where I created a recipe website using HTML.
